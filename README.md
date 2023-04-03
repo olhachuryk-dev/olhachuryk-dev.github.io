@@ -15,6 +15,7 @@ Please, feel free to visit any of my **pet-projects** via these links:
 > The advantages of the website include a clean and modern design, responsive layout, efficient use of CSS Grid and Flexbox for layout, and good use of typography. 
 - [Monthly Expenses Tracker](https://olhachuryk-dev.github.io/wallet-manager/)
 > The website has a clean and user-friendly interface that makes it easy for users to manage their expenses. The website is designed to be responsive, meaning it adapts to different screen sizes and devices.
+
 <br>
 Thank you for your attention 💕
 <br><br><br><br><br><br>
